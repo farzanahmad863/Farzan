@@ -2,7 +2,7 @@
 
 ### I am an aspiring full stack developer with a computer science background
 - :computer: I’m a JavaScript developer using technologies like React, Redux, GraphQl, NodeJs, MongoDB
-- :bulb: I’m currently building a full stack app with PERN stack and TypeScript
+- :bulb: I’m currently building a full stack app with MERN stack
 - :star: 2021 Goals: To learn as much as I possibly can :smiley:
 - ⚡ Fun fact: I love movies and playing boardgames
 
