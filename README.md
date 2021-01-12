@@ -1,9 +1,9 @@
 ## Hi there, I'm Farzan Ahmad aka Faizi 👋
 
 ### I am an aspiring full stack developer with a computer science background
-- :computer: I’m working as a JavaScript developer using technologies like React, Redux, GraphQl, NodeJs, MongoDB
+- :computer: I’m a JavaScript developer using technologies like React, Redux, GraphQl, NodeJs, MongoDB
 - :bulb: I’m currently building a full stack app with PERN stack and TypeScript
-- :star: 2020 Goals: To learn as much as I possibly can :smiley:
+- :star: 2021 Goals: To learn as much as I possibly can :smiley:
 - ⚡ Fun fact: I love movies and playing boardgames
 
 ### Languages and Tools:
