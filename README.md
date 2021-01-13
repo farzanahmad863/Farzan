@@ -24,7 +24,7 @@
 
 <br />
 
-### I am currently searching for a front end developer position in Sweden. If you are hiring and would like to talk more, please don't hesitate to contact me :point_right: [<img alt="farzan-ahmad863 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### I am currently searching for a software developer position in Sweden. If you are hiring and would like to talk more, please don't hesitate to contact me :point_right: [<img alt="farzan-ahmad863 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/farzan-ahmad863/
 
 
