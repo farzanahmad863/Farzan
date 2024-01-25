@@ -1,9 +1,9 @@
 ## Hi there, I'm Farzan Ahmad aka Faizi 👋
 
 ### I am an aspiring full stack developer with a computer science and mathematics background
-- :computer: I’m a Full Stack Developer using technologies like C#, ASP.Net Core, Javascript, React, Redux, NodeJs, MongoDB
-- :bulb: I’m currently building a full stack app with .Net Core MVC
-- :star: 2021 Goals: To learn as much as I possibly can :smiley:
+- :computer: I’m a Full Stack Developer working with technologies like C#, .Net Core, Javascript, React, Redux, NodeJs, Graph QL, AWS
+- :bulb: I’m currently working as a full stack developer
+- :star: 2024 Goals: To learn as much as I possibly can :smiley:
 - ⚡ Fun fact: I love music and exploring nature lanscapes
 
 ### Languages and Tools:
