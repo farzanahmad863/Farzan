@@ -4,7 +4,7 @@
 - :computer: I work with these technologies C#, .Net Core, React, NodeJs, Graph QL, AWS
 - :bulb: I’m currently working as a full stack developer in Malmö Sweden
 - :star: 2024 Goals: To learn as much as I possibly can :smiley:
-- ⚡ Fun fact: I love music and exploring nature lanscapes
+- ⚡ Fun fact: I love music and exploring natural landscapes
 
 ### Languages and Tools:
 <img align="left" alt="Dot net Core" width="26px" src="https://github.com/farzanahmad863/farzanahmad863/assets/44917528/efa5e7ae-135a-469c-8a6c-edc92b33eb9a">
