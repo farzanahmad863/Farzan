@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I love music and exploring nature lanscapes
 
 ### Languages and Tools:
+<img align="left" alt="Dot net Core" width="26px" src="https://github.com/farzanahmad863/farzanahmad863/assets/44917528/efa5e7ae-135a-469c-8a6c-edc92b33eb9a">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
