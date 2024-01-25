@@ -2,7 +2,7 @@
 
 ### I am a experienced full stack developer with a computer science and mathematics background
 - :computer: I work with these technologies C#, .Net Core, Javascript, React, Redux, NodeJs, Graph QL, AWS
-- :bulb: I’m currently working as a full stack developer
+- :bulb: I’m currently working as a full stack developer in Malmö Sweden
 - :star: 2024 Goals: To learn as much as I possibly can :smiley:
 - ⚡ Fun fact: I love music and exploring nature lanscapes
 
